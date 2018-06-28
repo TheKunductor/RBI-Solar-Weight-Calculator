@@ -9,4 +9,4 @@ w = lambda a,b: pnw[a] * b
 
 
 #when i create a web app for this calculator, be sure to let the user "add item" and they can just put the item numer and
-#quantitys in seperate cells
+#quantities in seperate cells
